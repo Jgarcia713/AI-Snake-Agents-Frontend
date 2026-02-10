@@ -33,7 +33,7 @@ function snakeColor(index: number, maxScale: number) {
 }
 
 async function sendRequest(agent:string, eps:string, gridSize:number, seed:string): Promise<GameState[]> {
-  const res = await fetch("http://localhost:8000/simulate", {
+  const res = await fetch("https://ai-snake-agents-backend.onrender.com/simulate", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
