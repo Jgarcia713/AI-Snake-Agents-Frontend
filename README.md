@@ -2,7 +2,10 @@
 
 Frontend for running, comparing, and replaying AI snake agent simulations (A*, Q-Learning, Approx. QL, Deep QL).
 
-**Live app:** [https://ai-snake-agents-frontend-5zwm7rly7-jakob-garcias-projects.vercel.app/](https://ai-snake-agents-frontend-5zwm7rly7-jakob-garcias-projects.vercel.app/)
+**Live app:** [https://ai-snake-agents-frontend.vercel.app/](https://ai-snake-agents-frontend.vercel.app/)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/865cef5b-be9f-43d2-911d-c2029ddad857" />
+
 
 ## Stack
 
